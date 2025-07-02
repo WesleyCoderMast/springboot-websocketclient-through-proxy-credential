@@ -85,7 +85,7 @@
 		<dependency>
 			<groupId>org.json</groupId>
 			<artifactId>json</artifactId>
-			<version>20180813</version>
+			<version>20230227</version>
 		</dependency>
 
 		<!-- https://mvnrepository.com/artifact/com.mashape.unirest/unirest-java -->
@@ -206,11 +206,6 @@
 			<artifactId>spring-boot-starter-thymeleaf</artifactId>
 		</dependency>
 
-		<dependency>
-			<groupId>commons-httpclient</groupId>
-			<artifactId>commons-httpclient</artifactId>
-			<version>3.0.1</version>
-		</dependency>
 		<!-- START JACKSON -->
 		<dependency>
 			<groupId>com.fasterxml.jackson.datatype</groupId>
@@ -245,7 +240,7 @@
 		<dependency>
 			<groupId>commons-io</groupId>
 			<artifactId>commons-io</artifactId>
-			<version>2.7</version>
+			<version>2.14.0</version>
 		</dependency>
         <dependency>
             <groupId>joda-time</groupId>
